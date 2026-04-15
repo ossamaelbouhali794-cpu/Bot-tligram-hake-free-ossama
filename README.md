@@ -16,7 +16,7 @@ pkg install git python -y
  تثبيت الأدوات الأساسية (Git & Python)
 تحتاج لهذه الأدوات لتحميل الملفات وتشغيل لغة البرمجة التي بُنيت بها الأداة.
 ```bash
-git clone https://github.com/ossamaelbouhali794-cpu/Bot-tligram-hake-free-ossama/new/main?filename=README.md
+git clone https://github.com/ossamaelbouhali794-cpu/Bot-tligram-hake-free-ossama/tree/main
 
 ```
 
